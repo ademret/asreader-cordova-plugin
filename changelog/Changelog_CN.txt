@@ -1,0 +1,9 @@
+0.0.3
+————————————————————
+■ 共通：
+   回调方法中添加判断callbackID是否为空的处理。
+
+0.0.2
+————————————————————
+■ 追加下面的内容:
+   setChargingControl: function(success, error, isOn);
